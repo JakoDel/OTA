@@ -90,11 +90,11 @@
         </vince>
     
         <s2>
-            <Filename>Havoc-OS-20180623-s2-Official</Filename>
+            <Filename>Havoc-OS-20180708-s2-Official</Filename>
             <RomUrl
                 id="rom"
                 title=""
-                description="">https://sourceforge.net/projects/havoc-os/files/s2/Havoc-OS-20180623-s2-Official.zip/download</RomUrl>
+                description="">https://sourceforge.net/projects/havoc-os/files/s2/Havoc-OS-20180708-s2-Official.zip/download</RomUrl>
             <GAppsUrl
                 id="gapps"
                 title=""
